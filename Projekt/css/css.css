@@ -1,0 +1,40 @@
+/*header{
+    background-color: red!important;
+}*/
+h1{
+    font-size: 100px !important;
+    color:white;
+}
+p{
+    font-size: 15px;
+    color:white;
+}
+b{
+    font-size: 18px;
+    color:#b30000;
+}
+th{
+    font-size: 18px;
+    color:white;
+}
+td{
+    font-size: 15px;
+    color:white;
+}
+a{
+    font-size: 15px;
+    color: silver !important;
+}
+h2{
+    font-size: 40px!important;  
+    color:white;
+}
+.small{
+    font-size: 10px!important;  
+    color:red;
+}
+.endcss{
+    font-size: 10px!important;
+    color: red;
+    background-color: black;
+}
